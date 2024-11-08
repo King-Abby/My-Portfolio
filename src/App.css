@@ -202,6 +202,7 @@ header {
 #about {
   padding: 133.33px 85.33px;
   gap: 114.67px;
+  background-color: white;
 }
 
 .aboutme img {
@@ -433,12 +434,13 @@ header {
   flex-direction: column;
   gap: 64px;
   align-items: center;
+  background-color: white;
 }
 
 form {
   display: flex;
   flex-direction: column;
-  gap: 32px;
+  gap: 32px; 
 }
 
 .contact-txt {
@@ -514,6 +516,7 @@ input[type="number"]::-webkit-outer-spin-button {
   flex-direction: column;
   text-align: left;
   gap: 10.67px;
+  left: 100px;
 }
 
 .mssg textarea {
