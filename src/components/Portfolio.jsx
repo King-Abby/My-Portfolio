@@ -14,7 +14,7 @@ const Portfolio = () => {
           <h5 className="m-0">My Portfolio</h5>
         </div>
         <a
-          href="http://github/King-Abby"
+          href="https://github.com/King-Abby"
           target="_blank"
           className="d-flex git"
         >
