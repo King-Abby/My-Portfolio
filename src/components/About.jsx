@@ -17,8 +17,8 @@ const About = () => {
           user-friendly solutions. With a focus on responsive app design, I
           ensure flawless experience across all devices. I love to collaborate
           and continuously learn to stay updated with industry activities.
-          Outside of work, I enjoy going through new technologies. Let's
-          develop something marvellous together.
+          Outside of work, I enjoy going through new technologies. Let's develop
+          something marvellous together.
         </p>
       </div>
     </div>
