@@ -24,16 +24,16 @@ const Footer = () => {
             <Link to="portfolio">Portfolio</Link>
           </div>
           <div className="socio">
-            <a href="https://web.facebook.com/jessica.okeke.904/">
+            <a href="https://www.facebook.com/iyiolah.akeredolu">
               <img src={facebook} alt="" />
             </a>
-            <a href="https://www.instagram.com/jessica_okeke01/">
+            <a href="https://www.instagram.com/iyiolahakeredolu?igsh=YzljYTk1ODg3Zg==">
               <img src={instagram} alt="" />
             </a>
-            <a href="">
+            <a href="https://x.com/abbyking693?t=hvdOFU7NOOCxRe2ZEUIKgw&s=08">
               <img src={twitter} alt="" />
             </a>
-            <a href="https://www.instagram.com/jessica_okeke01/">
+            <a href="https://www.instagram.com/iyiolahakeredolu?igsh=YzljYTk1ODg3Zg==">
               <img src={linked} alt="" />
             </a>
           </div>
