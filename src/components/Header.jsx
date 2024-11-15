@@ -5,7 +5,7 @@ import profile from "../assets/profile-man.png";
 const Header = () => {
   return (
     <div>
-      <header id="header" className="d-flex">
+      <header id="header" className="hero">
         <div className="header-txt">
           <h4 className="m-0">Hey, I am Iyiola</h4>
           <h2 className="m-0">

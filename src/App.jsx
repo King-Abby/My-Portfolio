@@ -13,12 +13,15 @@ function App() {
   return (
     <>
       <Navbar />
-      <Header />
-      <Skills />
-      <About />
-      <Portfolio />
-      <Testimonial />
-      <Contact />
+      <div className="page">
+        <Header />
+        <Skills />
+        <About />
+        <Portfolio />
+        <Testimonial />
+        <Contact />
+      </div>
+
       <Footer />
     </>
   );
